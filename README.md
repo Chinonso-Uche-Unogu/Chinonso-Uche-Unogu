@@ -1,4 +1,4 @@
-# Hi there 👋, I’m UcNino ( Chinonso Uche Unogu)
+# Hi there 👋, I’m Chinonso Uche Unogu
 
 Welcome to my GitHub profile! I’m a **Junior Cybersecurity Specialist** with hands-on experience in network security, Linux administration, vulnerability assessment, penetration testing, and SAST tools analysis.
 
