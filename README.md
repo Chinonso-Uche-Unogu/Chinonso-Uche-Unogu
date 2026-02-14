@@ -6,6 +6,21 @@ I enjoy learning, exploring new tools, and sharing my cybersecurity projects wit
 
 ---
 
+## 🏅 My TryHackMe Badges
+
+![SOC Apprentice](https://tryhackme-badges.s3.amazonaws.com/badges/soc-apprentice.svg)
+![First Step Into SOC](https://tryhackme-badges.s3.amazonaws.com/badges/first-step-into-soc.svg)
+![Career Ready Badge](https://tryhackme-badges.s3.amazonaws.com/badges/career-ready.svg)
+
+---
+
+## 📂 SOC Portfolio
+Explore my structured labs and documentation:
+
+[TryHackMe Labs – SOC & Linux](https://github.com/Chinonso-Uche-Unogu/TryHackMe_Labs)
+
+---
+
 ## 🛠 Skills
 
 - **Cybersecurity Tools:** Metasploit, OpenVAS, Wireshark, Docker, SAST tools  
@@ -15,32 +30,31 @@ I enjoy learning, exploring new tools, and sharing my cybersecurity projects wit
 
 ---
 
+## 🛡️ Cybersecurity Skills & Proficiency
+
+- **Foundations of Cybersecurity & Network Security** ▓▓▓▓▓▓▓▓░░
+- **Web, Cryptography, Endpoint & Identity Security with Secure Development** ▓▓▓▓▓▓▓▓▓░
+- **Incident Response, Cloud Security, Cyber Law, Penetration Testing** ▓▓▓▓▓▓▓▓▓▓
+- **Security Operations, Threat Intelligence, Threat Modeling** ▓▓▓▓▓▓▓▓▓▓▓▓
+- **DevSecOps, Infrastructure Automation, Cloud Security** ▓▓▓▓▓▓▓▓▓▓▓░
+- **Network Security Design, Adversarial Testing, Vulnerability Management** ▓▓▓▓▓▓▓▓▓▓▓░
+- **Cybersecurity Policy, Encryption, Advanced Penetration Testing, Identity Management, ISMS, Threat Intelligence, Security Awareness** ▓▓▓▓▓▓▓▓▓▓▓
+
+---
+
 ## 🧩 Projects & Reports
-<p align="center">
-  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/Phishing_Assessment_UcNino.pdf">
-    <img src="https://img.shields.io/badge/Phishing_Assessment-4285F4?style=for-the-badge&logo=mailchimp&logoColor=white" alt="Phishing Report"/>
-  </a>
-  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/Docker_Assessment_UcNino.pdf">
-    <img src="https://img.shields.io/badge/Docker_Assessment-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Report"/>
-  </a>
-  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/PenTest_Report_UcNino.pdf">
-    <img src="https://img.shields.io/badge/PenTest_Report_1-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="PenTest 1"/>
-  </a>
-  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/pen_test_report2_UcNino.pdf">
-    <img src="https://img.shields.io/badge/PenTest_Report_2-FF6F00?style=for-the-badge&logo=metasploit&logoColor=white" alt="PenTest 2"/>
-  </a>
-  <a href="https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/SAST_tool_Analysis_Report_ucnino.pdf">
-    <img src="https://img.shields.io/badge/SAST_Tool_Analysis-FF6347?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SAST Report"/>
-  </a>
-</p>
+- [Phishing Assessment Report](https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/Phishing_Assessment_UcNino.pdf)  
+- [Docker Assessment Report](https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/Docker_Assessment_UcNino.pdf)  
+- [PenTest 1 Report](https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/PenTest_Report_UcNino.pdf)  
+- [PenTest 2 Report](https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/pen_test_report2_UcNino.pdf)  
+- [SAST Tool Analysis Report](https://github.com/Chinonso-Uche-Unogu/UcNino/blob/main/SAST_tool_Analysis_Report_ucnino.pdf)  
 
 ---
 
 ## 📫 How to reach me
-
-- Email: [unoguuchechinonso@gmail.com](mailto:unoguuchechinonso@gmail.com)  
+- Email: unoguuchechinonso@gmail.com  
 - LinkedIn: [www.linkedin.com/in/chinonso-uche-unogu](https://www.linkedin.com/in/chinonso-uche-unogu)  
-- GitHub: [https://github.com/Chinonso-Uche-Unogu](https://github.com/Chinonso-Uche-Unogu)  
+- GitHub: [https://github.com/Chinonso-Uche-Unogu](https://github.com/Chinonso-Uche-Unogu)
 
 ---
 
