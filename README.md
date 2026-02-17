@@ -11,7 +11,7 @@ I enjoy learning, exploring new tools, and sharing my cybersecurity projects wit
 ![SOC Apprentice](https://tryhackme-badges.s3.amazonaws.com/badges/soc-apprentice.svg)
 ![First Step Into SOC](https://tryhackme-badges.s3.amazonaws.com/badges/first-step-into-soc.svg)
 ![Career Ready Badge](https://tryhackme-badges.s3.amazonaws.com/badges/career-ready.svg)
-
+![Skilled Navigator](https://tryhackme-badges.s3.amazonaws.com/badges/skilled-navigator.svg)
 ---
 
 ## 📂 SOC Portfolio
